@@ -2,9 +2,10 @@
 
 
 
-The following Design patterns have been implemented in java.
-The idea is to help folks learn design patterns with some simple example
-Most of examples here will be in relation to a Car.
+The following Design pattern examples have been implemented in java.
 
 1) Factory Pattern
 2) Abstract Factory pattern
+3) Iterator
+4) Singleton Pattern
+5)Facade Pattern
