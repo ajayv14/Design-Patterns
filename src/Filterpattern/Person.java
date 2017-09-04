@@ -12,7 +12,7 @@ public Person (String name,String gender, String status){
 }
 
 
-public String getname(){
+public String getName(){
 	return name;
 }
 

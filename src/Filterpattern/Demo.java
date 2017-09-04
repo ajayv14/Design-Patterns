@@ -22,7 +22,7 @@ public class Demo {
 	public static void printResult(List<Person> filteredPeople){
 
      for(Person person : filteredPeople){
-        System.out.println(person.getname());      
+        System.out.println(person.getName());      
      }
 
 	}
