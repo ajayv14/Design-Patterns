@@ -12,5 +12,6 @@ The following Design pattern examples have been implemented in java.
 6. FilterPattern
 7. Flyweight Pattern
 8. Adapter Pattern
+9. Bridge Pattern
 
 
