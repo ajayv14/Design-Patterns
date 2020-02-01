@@ -1,3 +1,6 @@
+
+//credits: Telusko : https://www.youtube.com/watch?v=nZ76x13Nm8Q
+//credits 2 : https://www.journaldev.com/1440/prototype-design-pattern-in-java    
 import java.util.ArrayList;
 import java.util.List;
 
