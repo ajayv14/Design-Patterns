@@ -7,6 +7,7 @@
 
    <ul>
      <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/PrototypePattern.java">PrototypePattern</a></li>
+     <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/AbstractFactoryPattern.java">AbstractFactoryPattern</a></li>
    </ul>  
 
 
