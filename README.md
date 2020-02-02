@@ -9,6 +9,7 @@
      <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/PrototypePattern.java">PrototypePattern</a></li>
      <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/AbstractFactoryPattern.java">AbstractFactoryPattern</a></li>
      <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/SingletonPattern.java">SingletonPattern</a></li>
+     <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/BuilderPattern.java">BuilderPattern</a></li>
    </ul>  
 
 
