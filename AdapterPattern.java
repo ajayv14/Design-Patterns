@@ -1,6 +1,6 @@
 // credits : https://www.journaldev.com/1487/adapter-design-pattern-java
 
-/*Objective : */
+/*Objective : Pattern to unite two unrelated interfaces to make them work together. The object that joins these unrelated interfaces is called an Adapter */
 
 /*to represent voltage*/
 class Voltage {

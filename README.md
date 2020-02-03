@@ -17,6 +17,7 @@
 
    <ul>
    	 <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/AdapterPattern.java">AdapterPattern</a></li>
+     <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/BridgePattern.java">BridgePattern</a></li>
    </ul>  
 
 
@@ -32,4 +33,3 @@ The following Design pattern examples have been implemented in java.
 Not in a simple readable format, please ignore 
 
 3. Iterator                   
-9. Bridge Pattern
