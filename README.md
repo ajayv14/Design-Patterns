@@ -13,6 +13,12 @@
      <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/BuilderPattern.java">BuilderPattern</a></li>
    </ul>  
 
+   <h3><a href=""></a>Structural Design Patterns <H3>
+
+   <ul>
+   	 <li><a href="https://github.com/ajayv14/Design-Patterns---Java/blob/master/AdapterPattern.java">AdapterPattern</a></li>
+   </ul>  
+
 
 
 
@@ -26,8 +32,4 @@ The following Design pattern examples have been implemented in java.
 Not in a simple readable format, please ignore 
 
 3. Iterator                   
-5. Facade Pattern
-6. FilterPattern
-7. Flyweight Pattern
-8. Adapter Pattern
 9. Bridge Pattern
