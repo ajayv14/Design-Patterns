@@ -1,12 +1,13 @@
 //credits : https://www.journaldev.com/1491/bridge-design-pattern-java
 
+/*objective : to decouple an abstraction from its implementation so that the two can vary independently. Also it follows the notion 
+   to prefer Composition over inheritance.*/
+
 interface Color {
-
    public void applyColor();
-
 }
 
-
+/* 1) concrete implementation of interface color */
 class RedColor implements Color {
 
    @Override
@@ -15,6 +16,7 @@ class RedColor implements Color {
    }
 }
 
+/* 1) concrete implementation of interface color */
 class GreenColor implements Color {
    
    @Override
