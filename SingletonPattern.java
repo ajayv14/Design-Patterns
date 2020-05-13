@@ -14,7 +14,7 @@ class Database {
    }
 
    /*a static method to return a private instance of the class*/
-    public static Database getConnecti synchronized(Database.class){
+    public static Database synchronized getConnection(Database.class){
          
          if(database == null){
             database = new Database();
